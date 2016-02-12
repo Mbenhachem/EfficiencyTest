@@ -11,7 +11,7 @@ Donnée d'entrée pour les interpolations
 using namespace QuantLib;
 
 
-//un nouveau commentaire pour fair le test :)
+//un nouveau commentaire pour fair le test 
 /// together
 struct CurveData {
 
