@@ -11,7 +11,7 @@ Donnée d'entrée pour les interpolations
 using namespace QuantLib;
 
 
-/// A structure to hold all the market quotes for a single curve
+//un nouveau commentaire pour fair le test 
 /// together
 struct CurveData {
 
